@@ -10,14 +10,9 @@ By
 October 31, 2021 | [0 Comments](#comments) | %t min read
 
   
-
-[Register](/user/register) or [Login](/user/login?destination=/article/21/10/linux-zombie-process) to like
-
 ![Full moon on a hazy night](/sites/default/files/lead-images/ganapathy-kumar-unsplash.jpg "Full moon on a hazy night")
 
 Image by:
-
-Photo by [Ganapathy Kumar](https://unsplash.com/@gkumar2175?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/moon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Happy Halloween Open SOURCE-rers!
 
